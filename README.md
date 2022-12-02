@@ -5,4 +5,4 @@ Figma file - https://www.figma.com/file/xSl3uDgIGsQj58ikIOpphu/Unit-Conversion-(
 
 Live Scrim - https://scrimba.com/scrim/co10e4e47a1b7e151f011e89c
 
-Deployed on Netlify - unit-converter42069.netlify.app
+Deployed on Netlify - https://unit-converter42069.netlify.app
