@@ -61,7 +61,7 @@ function runConversion() {
         ${initialValue} liters = ${gallon} gallons | ${initialValue} gallons = ${liter} liters
     ` 
     mass.innerHTML = `
-        ${initialValue} kilos = ${pound} pounds | ${initialValue} pounds = ${kilogram} kilos
+        ${initialValue} kilos = ${pound} pounds | ${initialValue} pounds = ${kilo} kilos
     ` 
 }
 
